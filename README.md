@@ -1,4 +1,4 @@
-# macOS Themed Portfolio Website
+<!-- # macOS Themed Portfolio Website
 
 A modern, sleek portfolio website built with Next.js, featuring a macOS-inspired design aesthetic and an IBM-style preloader animation. This project combines the power of modern web technologies with the iconic visual language of macOS to create an engaging and intuitive user experience.
 
@@ -116,4 +116,4 @@ Project Link: [https://github.com/ekas-7/MAC-OS-Themed-Portfolio](https://github
 
 ---
 
-Made with ❤️ by EKaspreeet Singh Atwal
+Made with ❤️ by EKaspreeet Singh Atwal -->
