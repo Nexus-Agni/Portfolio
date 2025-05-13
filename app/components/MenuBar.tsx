@@ -249,7 +249,7 @@ const MenuBar: React.FC<MenuBarProps> = ({ switchWallpaper }) => {
       >
         <div className="p-4 space-y-4">
           <div className="flex items-center justify-between">
-            <span className="font-semibold">Ekaspreet Singh Atwal</span>
+            <span className="font-semibold">Agnibha Chakraborty</span>
             <div className="flex items-center space-x-2">
               <LucideCopyright className="h-4 w-4" />
               <span>2025</span>
