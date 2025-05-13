@@ -75,10 +75,10 @@ export default function Dock({ toggleWindow }: DockProps) {
             group-hover:text-gray-900 dark:group-hover:text-white" />
         </DockItem>
 
-        <DockItem label="Music" onClick={() => toggleWindow('music-player')}>
+        {/* <DockItem label="Music" onClick={() => toggleWindow('music-player')}>
           <Music className="w-5 h-5 sm:w-5 sm:h-5 text-gray-600/80 dark:text-white/80 
             group-hover:text-gray-900 dark:group-hover:text-white" />
-        </DockItem>
+        </DockItem> */}
 
         <DockItem label="VSCode" onClick={() => toggleWindow('vscode')}>
           <Code className="w-5 h-5 sm:w-5 sm:h-5 text-gray-600/80 dark:text-white/80 
